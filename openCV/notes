@@ -1,0 +1,2 @@
+In this python code, we converted the BGR images to different color spaces and found that some area of interest are lost. so method of converting leaf images to another color space and then obtain features as a feature array is not feasible for classification purpose.
+
