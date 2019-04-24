@@ -1,0 +1,1 @@
+Grabcut algorithm is used to remove background of images. Its working based on variation in pixel when moving from one area to another area. In this code, input folder and target folder are selected from two lists and all images of the input folder are processed and saved in target folder.
