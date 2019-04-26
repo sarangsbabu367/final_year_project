@@ -1,0 +1,1 @@
+This program could import all the images in a folder atonce and process them together. The images are converted to greyscale and then edges are detected using Sobels operator. The output images are then saved to the location specified in the code. This program could not be used further in this project because automating this process is very difficult. 

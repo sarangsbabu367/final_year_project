@@ -1,0 +1,1 @@
+The side view of the plant is captured using camera. Plant in the image is detected.This image is cropped according to the size of the plant. Then height is calculated. The growth stage of plant can be identified according to the height.
